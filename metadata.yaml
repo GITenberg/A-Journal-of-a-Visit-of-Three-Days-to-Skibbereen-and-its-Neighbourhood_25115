@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4167
     wikipedia: http://en.wikipedia.org/wiki/Elihu_Burritt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25115#A-Journal-of-a-Visit-of-Three-Days-to-Skibbereen-and-its-Neighbourhood
 gutenberg_issued: '2008-04-21'
 gutenberg_type: Text
 identifiers:
